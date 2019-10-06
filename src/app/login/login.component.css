@@ -1,0 +1,117 @@
+.banner-left{
+height: 90%;
+width: 50%;
+position: absolute;
+top: 0%;
+overflow-x: hidden;
+padding-top: 50px;
+left: 0;
+background-color: #F7FAF7;
+font-family: sans-serif
+}
+
+.banner-right{
+    height: 90%;
+    width: 50%;
+    position: absolute;
+    top: 0%;
+    
+    padding-top: 20px;
+    right: 0;
+    background-color: #FFFFFF;
+    text-align: center;
+    font-family: sans-serif;
+    overflow-x: hidden;
+    
+}
+
+.left h2{
+    color: #5F9759;
+    position: 200%;
+    text-align: center;
+        
+}
+.left h5{
+    color: #5F9759;
+    position: 200%;
+    text-align: center;
+        
+}
+
+.left{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+}
+
+.left img{
+    width: 451px;
+    border-radius: 200%;
+}
+
+.right p{
+ 
+    color: #5F9759;
+    position: 200%;
+    text-align: center;
+    transform: translate(-10%, 0%);
+    right: 300%;
+    font-size: 150%
+}
+.right h5{
+ 
+    color: #5F9759;
+    position: 50%;
+    text-align: center;
+    transform: translate(1%, -171%);
+    text-align: 100%
+}
+
+.textbox i{
+    color: #5F9759; 
+    
+}
+
+.textbox input{
+width: 25%;
+font-size: 10px;
+font: bold;
+background-color: #F7FAF7;
+margin: 10 20px;
+border: none;
+padding: 3% 99px;
+/* transform: translate(9%, 722%); */
+color: #5F9759
+}
+
+.textbox h2{
+    color: #5F9759;
+}
+
+.textbox button{
+    width: 27%;
+    background-color: #5F9759;
+    border: 2px solid #5F9759;
+    color: white;
+    padding: 6px 0;
+    padding-bottom: 15px 0;
+    cursor: pointer;
+    margin: 23px 0;
+    font-size: 100%;
+    top: 0%
+}
+
+.textbox{
+    transform: translate(7%, 79%);
+}
+
+.banner-right .bottom {
+    transform: translate(-10%, 2100%); 
+    text-underline-position: auto;
+    
+}
+.banner-right  .h5 .a{
+    color: #5F9759;
+}

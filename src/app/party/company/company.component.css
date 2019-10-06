@@ -1,0 +1,126 @@
+ .container-party{
+    display: grid;
+    grid-template-columns: 23% 77%;
+    height: 100vh;
+    font-family: ubuntu;
+  
+ }
+
+ .body-right{
+     background-color: #F7FAF7;
+ }
+
+ .container-party .sidebar{
+
+    color: #5F9759;
+    padding: 5% 0%
+ 
+ }
+ .sidebar .btn{
+    color: #5F9759;
+    padding: 5% 35.5%;
+    border: none;
+    margin: none;
+    background-color: #F7FAF7;
+    border-right: 3px solid #5F9759;
+    
+}
+
+  .sidebar .fa-users{
+     position: fixed;
+     padding: 1%;
+     color: #5F9759;
+     
+ }
+
+ .dropdown{
+
+    padding: 21% 0%;
+ }
+
+ .sidebar .logo{
+
+    padding: 9% 13%;
+ }
+
+ .side{
+     padding: 0% 0% 0% 0%
+ }
+ 
+ 
+
+ .main-body{
+
+    padding: 26px 43px 17px 44px;
+    display: inline-block;
+    background-color: white;
+    transform: translate(12%, 8%);
+    
+ }
+ .fa, .fa-search{
+    text-align: right;
+    color: gray;
+
+    
+    }
+
+
+    .main-body .button{
+
+    border: 0px solid #cdcdcd;
+    cursor: pointer;
+    background-color: #5F9759;
+    color: white;
+    padding: 5px 15px 5px 15px;
+    outline: none;
+    border-color: rgba(0, 0, 0, .14);
+
+ }
+
+ .form-control{
+
+    outline: none;
+    border: 0px solid #cdcdcd;
+    position: relative;
+    margin: none;
+    font-size: 14px;
+    border-color: rgba(0, 0, 0, .14);
+    padding: 6px 14px;
+    
+ }
+
+
+ .side{
+ 
+    padding: 0px, 0px, 0px, 0px;
+ }
+    .side .btn{
+        border: 0px solid #cdcdcd;
+        cursor: pointer;
+        background-color: #5F9759;
+        color: white;
+        padding: 9px 25px 7px 23px;
+        outline: none;
+        border-color: rgba(0, 0, 0, .14);
+        float: right;
+        transform: translate(-18%, -190%);
+    
+    }
+
+    .body-right .side .fa, .fa-plus{
+        transform: translate(-108%, 3%);
+        position: relative;
+        color: white;
+        float: left
+    }
+ 
+    .main-head p{
+        color: gray;
+        padding: 0px 42px;
+        font-size: 32px
+    }
+    .main-head h5{
+        color: gray;
+        padding: 0px 42px;
+        font-size: 20px
+    }
